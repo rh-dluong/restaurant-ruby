@@ -1,0 +1,4 @@
+Plaza Cafe	Indian	11
+Vic's	Italian	10
+Virgil's	Mexican	13
+City Market Sushi	Japanese	15
